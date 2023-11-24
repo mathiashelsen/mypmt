@@ -1,0 +1,7 @@
+int main(){
+	library(L) {
+		L.devices(D)     printf("Dev: %s\n", D.name);
+	}
+
+	return 0;
+}
